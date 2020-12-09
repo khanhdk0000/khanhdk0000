@@ -1,6 +1,6 @@
 ### Hello there, I am Tran Khanh 👋
 
-- 🔭 I am a computer science at Bach Khoa University (Viet Nam)
+- 🔭 I am a computer science student at Bach Khoa University (Viet Nam)
 - 🌱 I’m currently learning to become a developer
 - 👯 I’m looking to collaborate in many projects
 - 🥅 2021 Goals: Land a great internship
