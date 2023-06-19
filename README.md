@@ -1,9 +1,8 @@
 ### Hello there, I am Tran Khanh 👋
 
 - 🔭 I am a computer science student at Bach Khoa University (Viet Nam)
-- 🌱 I’m currently learning to become a developer
 - 👯 I’m looking to collaborate in many projects
-- 🥅 2021 Goals: Land a great internship
+- 🥅 2023 Goals: Be a better engineer
 
 ### Connect with me:
 
@@ -39,6 +38,7 @@
 <!--START_SECTION:activity-->
 1. 🎥 Video Streaming [khanhdk0000/video_streaming](https://github.com/khanhdk0000/video_streaming)
 2. 🥗 Healthy Diet App [AagonP/Healthee-PSE-SE-Assignment](https://github.com/AagonP/Healthee-PSE-SE-Assignment)
+3. Scheduler with deep reinforcement learning [AagonP/Scheduler-with-Deep-RL](https://github.com/AagonP/Scheduler-with-Deep-RL)
 <!--END_SECTION:activity-->
 
 </details>
