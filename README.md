@@ -32,8 +32,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Some of my github contributions</summary>
+### :zap: Some of my GitHub notable contributions:
   
 <!--START_SECTION:activity-->
 1. 🎥 Video Streaming [khanhdk0000/video_streaming](https://github.com/khanhdk0000/video_streaming)
@@ -41,7 +40,6 @@
 3. Scheduler with deep reinforcement learning [AagonP/Scheduler-with-Deep-RL](https://github.com/AagonP/Scheduler-with-Deep-RL)
 <!--END_SECTION:activity-->
 
-</details>
 
 <br />
 
