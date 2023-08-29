@@ -45,10 +45,9 @@
 
 <br />
 
-<details>
-  <summary>🏆 Github trophy</summary>
+## 🏆 Github trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
+
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
