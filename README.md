@@ -1,7 +1,7 @@
 ### Hello there, I am Tran Khanh 👋
 
 - 🔭 I am a computer science student at Bach Khoa University (Viet Nam)
-- 👯 I’m looking to collaborate in many projects
+- 👯 I’m looking to collaborate on many projects
 - 🥅 2023 Goals: Be a better engineer
 
 ### Connect with me:
@@ -43,7 +43,11 @@
 
 </details>
 
+<br />
+
+<details>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
