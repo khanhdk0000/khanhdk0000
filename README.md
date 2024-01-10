@@ -2,12 +2,13 @@
 
 - 🔭 I am a computer science student at Bach Khoa University (Viet Nam)
 - 👯 I’m looking to collaborate on many projects
-- 🥅 2023 Goals: Be a better engineer
+- 🥅 2024 Goals: Reach next level in software engineer career
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/>][mail]
 
 <br />
 
@@ -54,4 +55,5 @@
 [github]: https://github.com/khanhdk0000
 [facebook]: https://www.facebook.com/khanhdangdk0000/
 [linkedin]: https://www.linkedin.com/in/tran-khanh-dang-6031a8175/
+[mail]: khanhtran.dang2000@gmail.com
 
