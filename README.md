@@ -8,7 +8,6 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>][facebook]
-[<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/>][mail]
 
 <br />
 
