@@ -32,7 +32,7 @@
 
 ---
 
-### :zap: Some of my GitHub notable contributions:
+### :zap: Some of personal GitHub contributions:
   
 <!--START_SECTION:activity-->
 1. 🎥 Video Streaming [khanhdk0000/video_streaming](https://github.com/khanhdk0000/video_streaming)
