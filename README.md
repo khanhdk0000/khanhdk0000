@@ -37,7 +37,7 @@
 <!--START_SECTION:activity-->
 1. 🎥 Video Streaming [khanhdk0000/video_streaming](https://github.com/khanhdk0000/video_streaming)
 2. 🥗 Healthy Diet App [AagonP/Healthee-PSE-SE-Assignment](https://github.com/AagonP/Healthee-PSE-SE-Assignment)
-3. Scheduler with deep reinforcement learning [AagonP/Scheduler-with-Deep-RL](https://github.com/AagonP/Scheduler-with-Deep-RL)
+3. 🧠 Scheduler with deep reinforcement learning [AagonP/Scheduler-with-Deep-RL](https://github.com/AagonP/Scheduler-with-Deep-RL)
 <!--END_SECTION:activity-->
 
 
