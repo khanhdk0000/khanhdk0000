@@ -1,5 +1,6 @@
 ### Hello there, I am Tran Khanh 👋
 
+- 👨🏻‍💻 I'm a software engineer passionate about building innovative solutions and exploringlatest technology trends
 - 🔭 I am a computer science student at Bach Khoa University (Viet Nam)
 - 👯 I’m looking to collaborate on many projects
 - 🥅 2024 Goals: Reach next level in software engineer career
